@@ -6,10 +6,20 @@
     <description>Recent content on hugo的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 21 Jun 2020 23:22:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:02:48 +0800</lastBuildDate>
     
 	<atom:link href="https://hugoatgithub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git Induction</title>
+      <link>https://hugoatgithub.github.io/posts/git-induction/</link>
+      <pubDate>Mon, 22 Jun 2020 00:02:48 +0800</pubDate>
+      
+      <guid>https://hugoatgithub.github.io/posts/git-induction/</guid>
+      <description>Git 入门 git 四行配置 git config --global user.name 你的英文名 git config --global user.email 你的邮箱 git config --global push.default simple git config --global core.quotepath false  git 运行配置 的一些技巧
+ 常用操作  git add 选择要提交的内容 .gitignore 文件描述不提交的内容 git commit -V 用来提交 git log 用来查看历史 git reset &amp;ndash;hard XXXXX 用来御剑飞行切换版本 git reflog 用来查看所有历史 git branch x git checkout x git merge x  Git 远程仓库 生成 ssh key ssh-keygen -t rsa -b 4096 -C 你的邮箱 cat ~/.</description>
+    </item>
     
     <item>
       <title>Windows软件安装</title>
