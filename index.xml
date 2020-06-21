@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo的博客</title>
+    <link>http://example.org/</link>
+    <description>Recent content on hugo的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sun, 21 Jun 2020 23:22:05 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows软件安装</title>
+      <link>http://example.org/posts/windows-software-installed/</link>
+      <pubDate>Sun, 21 Jun 2020 23:22:05 +0800</pubDate>
+      
+      <guid>http://example.org/posts/windows-software-installed/</guid>
+      <description>前端学习： 常用软件安装 Chrome  插件：SwitchyOmega 开发者工具使用  按ESC可新建控制台 Sources 面板可以保存代码片段（Snippets） Network 模块调整  显示更多字段 去掉不必要信息的显示      VS Code   配置
+ 汉化： 插件里搜 chinese，安装汉化插件 自动保存 Auto Save： onFocusChange 自动格式化 Format On Save 字体  使用 JetBrains Mono 配置字体连字  Font Ligatures        插件
+ Code Spell Checker 单词拼写检查 Git Easy    快捷键
+ ctrl+ p-找文件 ctrl + shift + p-输命令 alt+单击-多位置输入    功能</description>
+    </item>
+    
+  </channel>
+</rss>
