@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on hugo的博客</title>
-    <link>https://hugoatgithub.github.io/post/</link>
+    <link>http://xianyou688.xyz/post/</link>
     <description>Recent content in Posts on hugo的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 22 Jun 2020 22:18:07 +0800</lastBuildDate>
     
-	<atom:link href="https://hugoatgithub.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://xianyou688.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>使用 Hugo 快速搭建个人博客</title>
-      <link>https://hugoatgithub.github.io/post/hugo-blog-quick-start/</link>
+      <link>http://xianyou688.xyz/post/hugo-blog-quick-start/</link>
       <pubDate>Mon, 22 Jun 2020 22:18:07 +0800</pubDate>
       
-      <guid>https://hugoatgithub.github.io/post/hugo-blog-quick-start/</guid>
+      <guid>http://xianyou688.xyz/post/hugo-blog-quick-start/</guid>
       <description>使用 Hugo 快速搭建个人博客 1. Hugo 安装  官方安装教程  这里以 Windows 系统为例：
   到 Hugo 的 GitHub 页下载 hugo_extended_xxx_Windows-64bit.zip;
   解压到一个目录，如： C:\hugo
@@ -31,20 +31,20 @@ hugo new site quickstart   上一个命令就是在当前目录的 quickstart �
     
     <item>
       <title>Git Induction</title>
-      <link>https://hugoatgithub.github.io/post/git-induction/</link>
+      <link>http://xianyou688.xyz/post/git-induction/</link>
       <pubDate>Mon, 22 Jun 2020 00:02:48 +0800</pubDate>
       
-      <guid>https://hugoatgithub.github.io/post/git-induction/</guid>
+      <guid>http://xianyou688.xyz/post/git-induction/</guid>
       <description>Git 入门 git 四行配置 git config --global user.name 你的英文名 git config --global user.email 你的邮箱 git config --global push.default simple git config --global core.quotepath false  git 运行配置 的一些技巧
  常用操作  git add 选择要提交的内容 .gitignore 文件描述不提交的内容 git commit -V 用来提交 git log 用来查看历史 git reset &amp;ndash;hard XXXXX 用来御剑飞行切换版本 git reflog 用来查看所有历史 git branch x git checkout x git merge x  Git 远程仓库 生成 ssh key ssh-keygen -t rsa -b 4096 -C 你的邮箱 cat ~/.</description>
     </item>
     
     <item>
       <title>Windows软件安装</title>
-      <link>https://hugoatgithub.github.io/post/windows-software-installed/</link>
+      <link>http://xianyou688.xyz/post/windows-software-installed/</link>
       <pubDate>Sun, 21 Jun 2020 23:22:05 +0800</pubDate>
       
-      <guid>https://hugoatgithub.github.io/post/windows-software-installed/</guid>
+      <guid>http://xianyou688.xyz/post/windows-software-installed/</guid>
       <description>前端学习： 常用软件安装 Chrome  插件：SwitchyOmega 开发者工具使用  按ESC可新建控制台 Sources 面板可以保存代码片段（Snippets） Network 模块调整  显示更多字段 去掉不必要信息的显示      VS Code   配置
  汉化： 插件里搜 chinese，安装汉化插件 自动保存 Auto Save： onFocusChange 自动格式化 Format On Save 字体  使用 JetBrains Mono 配置字体连字  Font Ligatures        插件
  Code Spell Checker 单词拼写检查 Git Easy    快捷键
